@@ -13,7 +13,8 @@
 # ### Import Library dan Data
 
 # In[57]:
-# test of using git
+# test of using git v2 kok ga keluar lmao
+
 
 
 import numpy as np
