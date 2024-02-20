@@ -1,6 +1,2 @@
-# Ini Tidak Ada Perubahan Apa-Apa
-## Jadi ini tidak penting
-### Ini untuk mencoba saja
-#### Hehehe....
-##### Lmao
-###### help
+# Credit Risk Analysis and Prediction
+Tis project is dedicated as a capstone project at project based virtual internship at ID/X Partners facilitated by Rakamin. General underline of tis project contains: business understanding, data understanding, data prep, EDA, modelling, modelling evaluation, summary and advice. This is still the first version of the project, since i admit that there's still many thing to be improved, such as hyperparameter tuning, deployment, etc. I also want you to know that some of the code may not be in my courtesy, since many repo regarding this are spread accross publicly.
