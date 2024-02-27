@@ -13,7 +13,7 @@
 # ### Import Library dan Data
 
 # In[57]:
-# test of using git v2 kok ga keluar lmao
+# test of using git
 
 
 
