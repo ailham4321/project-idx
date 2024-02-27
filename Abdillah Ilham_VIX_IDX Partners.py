@@ -8,7 +8,6 @@
 # Dalam tahap ini, setelah permasalahan bisnis dijelaskan, ilmuwan data dapat merumuskan pendekatan analitis untuk memecahkan masalah, dengan mempertimbangkan teknik statistik dan pembelajaran mesin. Penjelasan masalah secara statistik membantu menentukan jenis tren yang diperlukan untuk menyelesaikan masalah secara efisien, dan berbagai pendekatan seperti model prediktif, deskriptif, dan analisis statistik dapat digunakan sesuai kebutuhan. Pada kasus ini, karena hasil akhirnya adalah prediksi, maka akan digunakan pendekatan machine learning dengan data yang digunakan adalah data pinjaman di Amerika pada tahun 2007-2014.
 # ## Data Requirenments and Collections
 # Seperti yang sudah dijelaskan di awal, pada kasus ini digunakan ata pinjaman di Amerika pada tahun 2007-2014 dan dapat diakses pada Kaggle.com pada https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014.
-# 
 
 # ### Import Library dan Data
 
